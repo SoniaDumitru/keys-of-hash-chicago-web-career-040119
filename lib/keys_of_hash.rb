@@ -10,5 +10,5 @@ class Hash
     end
   end
   keys_list
-end 
-end 
+end
+end
